@@ -1,9 +1,9 @@
 <annotation>
-	<folder>images</folder>
+	<folder></folder>
 	<filename>10.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\10.jpg</path>
+	<path>1_Sand_000001_88_1_jpg.rf.61559164a4c7a4854e8deb902fe09038.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>800</width>
@@ -12,75 +12,42 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>182</ymin>
-			<xmax>695</xmax>
-			<ymax>359</ymax>
+			<xmin>478</xmin>
+			<xmax>556</xmax>
+			<ymin>93</ymin>
+			<ymax>147</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
-			<xmin>256</xmin>
-			<ymin>27</ymin>
-			<xmax>381</xmax>
-			<ymax>192</ymax>
+			<xmin>586</xmin>
+			<xmax>685</xmax>
+			<ymin>376</ymin>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
-			<xmin>267</xmin>
-			<ymin>266</ymin>
-			<xmax>402</xmax>
-			<ymax>489</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>208</xmin>
-			<ymin>193</ymin>
-			<xmax>313</xmax>
-			<ymax>266</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>113</xmin>
-			<ymin>295</ymin>
-			<xmax>226</xmax>
-			<ymax>397</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>183</xmin>
-			<ymin>359</ymin>
-			<xmax>275</xmax>
-			<ymax>459</ymax>
+			<xmin>645</xmin>
+			<xmax>729</xmax>
+			<ymin>471</ymin>
+			<ymax>528</ymax>
 		</bndbox>
 	</object>
 </annotation>
